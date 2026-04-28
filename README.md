@@ -15,5 +15,7 @@ Dieses Repository enthält einen mathematischen und physikalischen Rettungsversu
 Diese Erkenntnisse sind Gemeingut. Keine Urheberrechte, keine Barrieren. 
 *Vom Steinzeitmenschen an die digitale Wand gekrakelt.*
 
+Bestätigung? https://digitalcommons.unf.edu/cgi/viewcontent.cgi?article=2269&context=etd
+
 ---
 👉 **[Hier geht es zum Hauptdokument mit der vollständigen Herleitung](https://github.com/IrgendeinBonobo/Eventuell/blob/main/Thermodynamik:%20%CE%94S=QrevT%CE%94S=TQrev%E2%80%8B%E2%80%8B.%20S%C3%A4ttigung%20(Mitte)%20minimiert%20QQ%20(Energieverschwendung),%20maximiert%20TT%20(kognitive%20Freiheit).)**
